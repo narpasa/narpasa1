@@ -1,876 +1,368 @@
 #EXTM3U
 #EXTINF:-1,  NAC | ONCE NINOS (CLASES)
 http://srregio.net/Sr_Regio151120/tp.php?c=3315&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NAC | AZTECA 7.3 (CLASES)
+#EXTINF:-1 group-title="NACIONAL",  NAC | AZTECA 7.3 (CLASES)
 http://srregio.net/Sr_Regio151120/tp.php?c=3316&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NAC | AZTECA UNO HD
+#EXTINF:-1 group-title="NACIONAL",  NAC | AZTECA UNO HD
 http://srregio.net/Sr_Regio151120/tp.php?c=7&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, NAC | AZ CLIC HD
+#EXTINF:-1 group-title="NACIONAL",  NAC | AZ CLIC HD
 http://srregio.net/Sr_Regio151120/tp.php?c=11&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NAC | LAS ESTRELLAS
+#EXTINF:-1 group-title="NACIONAL",  NAC | LAS ESTRELLAS
 http://srregio.net/Sr_Regio151120/tp.php?c=17&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NAC | CANAL 5
+#EXTINF:-1 group-title="NACIONAL",  NAC | CANAL 5
 http://srregio.net/Sr_Regio151120/tp.php?c=20&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NAC | AZTECA 7
+#EXTINF:-1 group-title="NACIONAL",  NAC | AZTECA 7
 http://srregio.net/Sr_Regio151120/tp.php?c=21&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NAC | NU9VE
+#EXTINF:-1 group-title="NACIONAL",  NAC | NU9VE
 http://srregio.net/Sr_Regio151120/tp.php?c=24&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NAC | ONCE
+#EXTINF:-1 group-title="NACIONAL",  NAC | ONCE
 http://srregio.net/Sr_Regio151120/tp.php?c=25&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NAC | AZTECA UNO
+#EXTINF:-1 group-title="NACIONAL",  NAC | AZTECA UNO
 http://srregio.net/Sr_Regio151120/tp.php?c=27&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NAC | TELEFORMULA SD
+#EXTINF:-1 group-title="NACIONAL",  NAC | TELEFORMULA SD
 http://srregio.net/Sr_Regio151120/tp.php?c=32&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NAC | MEXIQUENSE TV
+#EXTINF:-1 group-title="NACIONAL",  NAC | MEXIQUENSE TV
 http://srregio.net/Sr_Regio151120/tp.php?c=44&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, NAC | AZ CORAZON 
+#EXTINF:-1 group-title="NACIONAL",  NAC | AZ CORAZON 
 http://srregio.net/Sr_Regio151120/tp.php?c=70&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | AZ MUNDO
+#EXTINF:-1 group-title="NACIONAL",  NAC | AZ MUNDO
 http://srregio.net/Sr_Regio151120/tp.php?c=84&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | AZTECA 7 HD 
+#EXTINF:-1 group-title="NACIONAL",  NAC | AZTECA 7 HD 
 http://srregio.net/Sr_Regio151120/tp.php?c=317&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | AZTECA 7 HD 2
+#EXTINF:-1 group-title="NACIONAL",  NAC | AZTECA 7 HD 2
 http://srregio.net/Sr_Regio151120/tp.php?c=322&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | IMAGEN TV  
+#EXTINF:-1 group-title="NACIONAL",  NAC | IMAGEN TV  
 http://srregio.net/Sr_Regio151120/tp.php?c=2298&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | MULTIMEDIOS MTY
+#EXTINF:-1 group-title="NACIONAL",  NAC | MULTIMEDIOS MTY
 http://srregio.net/Sr_Regio151120/tp.php?c=2305&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | APREDNE TV
+#EXTINF:-1 group-title="NACIONAL",  NAC | APREDNE TV
 http://srregio.net/Sr_Regio151120/tp.php?c=401&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | MULTIMEDIOS CDMX
+#EXTINF:-1 group-title="NACIONAL",  NAC | MULTIMEDIOS CDMX
 http://srregio.net/Sr_Regio151120/tp.php?c=1253&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NAC | NU9VE HD
+#EXTINF:-1 group-title="NACIONAL",  NAC | NU9VE HD
 http://srregio.net/Sr_Regio151120/tp.php?c=1783&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | LAS ESTRELLAS HD
+#EXTINF:-1 group-title="NACIONAL",  NAC | LAS ESTRELLAS HD
 http://srregio.net/Sr_Regio151120/tp.php?c=1784&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | CANAL 5 HD 2
+#EXTINF:-1 group-title="NACIONAL",  NAC | CANAL 5 HD 2
 http://srregio.net/Sr_Regio151120/tp.php?c=1785&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, NAC | ONCE HD 
+#EXTINF:-1 group-title="NACIONAL",  NAC | ONCE HD 
 http://srregio.net/Sr_Regio151120/tp.php?c=1942&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | MVS TV
+#EXTINF:-1 group-title="NACIONAL",  NAC | MVS TV
 http://srregio.net/Sr_Regio151120/tp.php?c=2149&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | TVC
+#EXTINF:-1 group-title="NACIONAL",  NAC | TVC
 http://srregio.net/Sr_Regio151120/tp.php?c=2156&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NAC | CANAL 4 
+#EXTINF:-1 group-title="NACIONAL",  NAC | CANAL 4 
 http://srregio.net/Sr_Regio151120/tp.php?c=2274&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | CANAL 8
+#EXTINF:-1 group-title="NACIONAL",  NAC | CANAL 8
 http://srregio.net/Sr_Regio151120/tp.php?c=2307&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | TELEVISA PUEBLA
+#EXTINF:-1 group-title="NACIONAL",  NAC | TELEVISA PUEBLA
 http://srregio.net/Sr_Regio151120/tp.php?c=2312&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | A+ 
+#EXTINF:-1 group-title="NACIONAL",  NAC | A+ 
 http://srregio.net/Sr_Regio151120/tp.php?c=2316&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | TVMAS
+#EXTINF:-1 group-title="NACIONAL",  NAC | TVMAS
 http://srregio.net/Sr_Regio151120/tp.php?c=2324&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | CANAL DEL CONGRESO
+#EXTINF:-1 group-title="NACIONAL",  NAC | CANAL DEL CONGRESO
 http://srregio.net/Sr_Regio151120/tp.php?c=2331&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | MULTIMEDIOS CDMX
+#EXTINF:-1 group-title="NACIONAL",  NAC | MULTIMEDIOS CDMX
 http://srregio.net/Sr_Regio151120/tp.php?c=2352&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | IMAGEN TV HD  
+#EXTINF:-1 group-title="NACIONAL",  NAC | IMAGEN TV HD  
 http://srregio.net/Sr_Regio151120/tp.php?c=2606&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | ACADEMIA
+#EXTINF:-1 group-title="NACIONAL",  NAC | ACADEMIA
 http://srregio.net/Sr_Regio151120/tp.php?c=2703&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NAC | MULTIMEDIOS HD
+#EXTINF:-1 group-title="NACIONAL",  NAC | MULTIMEDIOS HD
 http://srregio.net/Sr_Regio151120/tp.php?c=2882&p=3&k=srregio&f=.m3u8  
 
-#EXTINF:-1, KIDS | TOONCAST
+#EXTINF:-1 group-title="KIDS",  KIDS | TOONCAST
 http://srregio.net/Sr_Regio151120/tp.php?c=108&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, KIDS | DISCOVERY KIDS
+#EXTINF:-1 group-title="KIDS",  KIDS | DISCOVERY KIDS
 http://srregio.net/Sr_Regio151120/tp.php?c=109&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, KIDS | NICK
+#EXTINF:-1 group-title="KIDS",  KIDS | NICK
 http://srregio.net/Sr_Regio151120/tp.php?c=110&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, KIDS | DISNEY XD
+#EXTINF:-1 group-title="KIDS",  KIDS | DISNEY XD
 http://srregio.net/Sr_Regio151120/tp.php?c=111&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, KIDS | CARTOON NETWORK
+#EXTINF:-1 group-title="KIDS",  KIDS | CARTOON NETWORK
 http://srregio.net/Sr_Regio151120/tp.php?c=112&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, KIDS | DISNEY CHANNEL
+#EXTINF:-1 group-title="KIDS",  KIDS | DISNEY CHANNEL
 http://srregio.net/Sr_Regio151120/tp.php?c=113&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, KIDS | BOOMERANG
+#EXTINF:-1 group-title="KIDS",  KIDS | BOOMERANG
 http://srregio.net/Sr_Regio151120/tp.php?c=115&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, KIDS | BABY TV 
+#EXTINF:-1 group-title="KIDS",  KIDS | BABY TV 
 http://srregio.net/Sr_Regio151120/tp.php?c=116&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, KIDS | NICK JR
+#EXTINF:-1 group-title="KIDS",  KIDS | NICK JR
 http://srregio.net/Sr_Regio151120/tp.php?c=117&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, KIDS | DISNEY JR
+#EXTINF:-1 group-title="KIDS",  KIDS | DISNEY JR
 http://srregio.net/Sr_Regio151120/tp.php?c=118&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, KIDS | NICKTOONS SD 
+#EXTINF:-1 group-title="KIDS",  KIDS | NICKTOONS SD 
 http://srregio.net/Sr_Regio151120/tp.php?c=1708&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, KIDS | BABY FIRST
+#EXTINF:-1 group-title="KIDS",  KIDS | BABY FIRST
 http://srregio.net/Sr_Regio151120/tp.php?c=1984&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, KIDS | NICK 2  
+#EXTINF:-1 group-title="KIDS",  KIDS | NICK 2  
 http://srregio.net/Sr_Regio151120/tp.php?c=2147&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, KIDS | NAT GEO KIDS  
+#EXTINF:-1 group-title="KIDS",  KIDS | NAT GEO KIDS  
 http://srregio.net/Sr_Regio151120/tp.php?c=2373&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, KIDS | BIT ME  
+#EXTINF:-1 group-title="KIDS",  KIDS | BIT ME  
 http://srregio.net/Sr_Regio151120/tp.php?c=2591&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1, CINE | A3CINE 
+#EXTINF:-1 group-title="CINE",  CINE | A3CINE 
 http://srregio.net/Sr_Regio151120/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, CINE | TBS SD  
+#EXTINF:-1 group-title="CINE",  CINE | TBS SD  
 http://srregio.net/Sr_Regio151120/tp.php?c=81&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, CINE | DE PELICULA + 
+#EXTINF:-1 group-title="CINE",  CINE | DE PELICULA + 
 http://srregio.net/Sr_Regio151120/tp.php?c=121&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | GOLDEN +
+#EXTINF:-1 group-title="CINE",  CINE | GOLDEN +
 http://srregio.net/Sr_Regio151120/tp.php?c=122&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | GOLDEN
+#EXTINF:-1 group-title="CINE",  CINE | GOLDEN
 http://srregio.net/Sr_Regio151120/tp.php?c=123&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | GOLDEN EDGE
+#EXTINF:-1 group-title="CINE",  CINE | GOLDEN EDGE
 http://srregio.net/Sr_Regio151120/tp.php?c=124&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, CINE | TNT 
+#EXTINF:-1 group-title="CINE",  CINE | TNT 
 http://srregio.net/Sr_Regio151120/tp.php?c=126&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | TCM
+#EXTINF:-1 group-title="CINE",  CINE | TCM
 http://srregio.net/Sr_Regio151120/tp.php?c=128&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | SPACE
+#EXTINF:-1 group-title="CINE",  CINE | SPACE
 http://srregio.net/Sr_Regio151120/tp.php?c=129&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | AMC 
+#EXTINF:-1 group-title="CINE",  CINE | AMC 
 http://srregio.net/Sr_Regio151120/tp.php?c=131&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | STUDIO UNIVERSAL
+#EXTINF:-1 group-title="CINE",  CINE | STUDIO UNIVERSAL
 http://srregio.net/Sr_Regio151120/tp.php?c=132&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | I SAT  
+#EXTINF:-1 group-title="CINE",  CINE | I SAT  
 http://srregio.net/Sr_Regio151120/tp.php?c=135&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | EUROPA CHANNEL 
+#EXTINF:-1 group-title="CINE",  CINE | EUROPA CHANNEL 
 http://srregio.net/Sr_Regio151120/tp.php?c=136&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | FILMS & ARTS
+#EXTINF:-1 group-title="CINE",  CINE | FILMS & ARTS
 http://srregio.net/Sr_Regio151120/tp.php?c=137&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | FXM
+#EXTINF:-1 group-title="CINE",  CINE | FXM
 http://srregio.net/Sr_Regio151120/tp.php?c=138&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | FXM SD 
+#EXTINF:-1 group-title="CINE",  CINE | FXM SD 
 http://srregio.net/Sr_Regio151120/tp.php?c=332&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CINE | FOX SERIES
+#EXTINF:-1 group-title="CINE",  CINE | FOX SERIES
 http://srregio.net/Sr_Regio151120/tp.php?c=139&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | MORBIDO
+#EXTINF:-1 group-title="CINE",  CINE | MORBIDO
 http://srregio.net/Sr_Regio151120/tp.php?c=140&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | FOX MOVIES 
+#EXTINF:-1 group-title="CINE",  CINE | FOX MOVIES 
 http://srregio.net/Sr_Regio151120/tp.php?c=146&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | CINECANAL
+#EXTINF:-1 group-title="CINE",  CINE | CINECANAL
 http://srregio.net/Sr_Regio151120/tp.php?c=149&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | CINEMAX 
+#EXTINF:-1 group-title="CINE",  CINE | CINEMAX 
 http://srregio.net/Sr_Regio151120/tp.php?c=158&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CINE | AMC  
+#EXTINF:-1 group-title="CINE",  CINE | AMC  
 http://srregio.net/Sr_Regio151120/tp.php?c=328&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | DE PELICULA SD
+#EXTINF:-1 group-title="CINE",  CINE | DE PELICULA SD
 http://srregio.net/Sr_Regio151120/tp.php?c=335&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | FOX ACTION
+#EXTINF:-1 group-title="CINE",  CINE | FOX ACTION
 http://srregio.net/Sr_Regio151120/tp.php?c=336&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, CINE | PARAMOUNT CHANNEL 
+#EXTINF:-1 group-title="CINE",  CINE | PARAMOUNT CHANNEL 
 http://srregio.net/Sr_Regio151120/tp.php?c=1726&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | FOX CINEMA SD
+#EXTINF:-1 group-title="CINE",  CINE | FOX CINEMA SD
 http://srregio.net/Sr_Regio151120/tp.php?c=1729&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CINE | FOX CLASSICS SD
+#EXTINF:-1 group-title="CINE",  CINE | FOX CLASSICS SD
 http://srregio.net/Sr_Regio151120/tp.php?c=1732&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CINE | AZ CINEMA 
+#EXTINF:-1 group-title="CINE",  CINE | AZ CINEMA 
 http://srregio.net/Sr_Regio151120/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
 
-#EXTINF:-1, ENT | TELEMUNDO INTERNACIONAL HD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | TELEMUNDO INTERNACIONAL HD
 http://srregio.net/Sr_Regio151120/tp.php?c=85&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | FOX  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | FOX  
 http://srregio.net/Sr_Regio151120/tp.php?c=46&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, ENT | SONY  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | SONY  
 http://srregio.net/Sr_Regio151120/tp.php?c=48&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | WARNER  
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | WARNER  
 http://srregio.net/Sr_Regio151120/tp.php?c=52&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | E!
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | E!
 http://srregio.net/Sr_Regio151120/tp.php?c=55&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | UNIVERSAL
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | UNIVERSAL
 http://srregio.net/Sr_Regio151120/tp.php?c=57&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | SYFY
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | SYFY
 http://srregio.net/Sr_Regio151120/tp.php?c=59&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | FX
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | FX
 http://srregio.net/Sr_Regio151120/tp.php?c=60&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | A&E
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | A&E
 http://srregio.net/Sr_Regio151120/tp.php?c=62&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | AXN
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | AXN
 http://srregio.net/Sr_Regio151120/tp.php?c=64&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | UNICABLE SD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | UNICABLE SD
 http://srregio.net/Sr_Regio151120/tp.php?c=66&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | SUNDANCE TV
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | SUNDANCE TV
 http://srregio.net/Sr_Regio151120/tp.php?c=69&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, ENT | TNT SERIES
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | TNT SERIES
 http://srregio.net/Sr_Regio151120/tp.php?c=71&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, ENT | GLITZ
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | GLITZ
 http://srregio.net/Sr_Regio151120/tp.php?c=76&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, ENT | GOURMET 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | GOURMET 
 http://srregio.net/Sr_Regio151120/tp.php?c=74&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, ENT  | FOX LIFE
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT  | FOX LIFE
 http://srregio.net/Sr_Regio151120/tp.php?c=77&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | DISTRITO COMEDIA SD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | DISTRITO COMEDIA SD
 http://srregio.net/Sr_Regio151120/tp.php?c=78&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | TRUTV
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | TRUTV
 http://srregio.net/Sr_Regio151120/tp.php?c=79&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, ENT | TL NOVELAS SD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | TL NOVELAS SD
 http://srregio.net/Sr_Regio151120/tp.php?c=83&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | LIFETIME 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | LIFETIME 
 http://srregio.net/Sr_Regio151120/tp.php?c=94&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, ENT | ANTENA 3
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | ANTENA 3
 http://srregio.net/Sr_Regio151120/tp.php?c=199&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | FOX HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | FOX HD 
 http://srregio.net/Sr_Regio151120/tp.php?c=201&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, ENT | WARNER HD 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | WARNER HD 
 http://srregio.net/Sr_Regio151120/tp.php?c=205&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | UNIVERSAL HD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | UNIVERSAL HD
 http://srregio.net/Sr_Regio151120/tp.php?c=207&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | FX HD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | FX HD
 http://srregio.net/Sr_Regio151120/tp.php?c=209&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, ENT | TRUTV HD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | TRUTV HD
 http://srregio.net/Sr_Regio151120/tp.php?c=215&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | HOLA TV HD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | HOLA TV HD
 http://srregio.net/Sr_Regio151120/tp.php?c=219&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, ENT | COMEDY CENTRAL
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | COMEDY CENTRAL
 http://srregio.net/Sr_Regio151120/tp.php?c=340&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | COMEDY CENTRAL SD
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | COMEDY CENTRAL SD
 http://srregio.net/Sr_Regio151120/tp.php?c=341&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, ENT | UNICABLE
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | UNICABLE
 http://srregio.net/Sr_Regio151120/tp.php?c=1499&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | MAS CHIC
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | MAS CHIC
 http://srregio.net/Sr_Regio151120/tp.php?c=1842&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, ENT | A3SERIES
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  ENT | A3SERIES
 http://srregio.net/Sr_Regio151120/tp.php?c=2113&p=3&k=srregio&f=.m3u8 
 
-#EXTINF:-1, DEP | ESPN + 
+#EXTINF:-1 group-title="DEPORTES",  DEP | ESPN + 
 http://srregio.net/Sr_Regio151120/tp.php?c=167&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, DEP | ESPN 
+#EXTINF:-1 group-title="DEPORTES",  DEP | ESPN 
 http://srregio.net/Sr_Regio151120/tp.php?c=168&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DEP | ESPN 2
+#EXTINF:-1 group-title="DEPORTES",  DEP | ESPN 2
 http://srregio.net/Sr_Regio151120/tp.php?c=169&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DEP | FOX SPORTS
+#EXTINF:-1 group-title="DEPORTES",  DEP | FOX SPORTS
 http://srregio.net/Sr_Regio151120/tp.php?c=170&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DEP | FOX SPORTS 2
+#EXTINF:-1 group-title="DEPORTES",  DEP | FOX SPORTS 2
 http://srregio.net/Sr_Regio151120/tp.php?c=172&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DEP | TUDN
+#EXTINF:-1 group-title="DEPORTES",  DEP | TUDN
 http://srregio.net/Sr_Regio151120/tp.php?c=174&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DEP | FOX SPORTS 3 
+#EXTINF:-1 group-title="DEPORTES",  DEP | FOX SPORTS 3 
 http://srregio.net/Sr_Regio151120/tp.php?c=178&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DEP | GOLF
+#EXTINF:-1 group-title="DEPORTES",  DEP | GOLF
 http://srregio.net/Sr_Regio151120/tp.php?c=179&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DEP | AYM SPORTS
+#EXTINF:-1 group-title="DEPORTES",  DEP | AYM SPORTS
 http://srregio.net/Sr_Regio151120/tp.php?c=180&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, DEP | ESPN 3 
+#EXTINF:-1 group-title="DEPORTES",  DEP | ESPN 3 
 http://srregio.net/Sr_Regio151120/tp.php?c=345&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DEP | TUDN HD (2)
+#EXTINF:-1 group-title="DEPORTES",  DEP | TUDN HD (2)
 http://srregio.net/Sr_Regio151120/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, DEP | ADRENALINA SPORTS HD
+#EXTINF:-1 group-title="DEPORTES",  DEP | ADRENALINA SPORTS HD
 http://srregio.net/Sr_Regio151120/tp.php?c=1799&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DEP | LAS
+#EXTINF:-1 group-title="DEPORTES",  DEP | LAS
 http://srregio.net/Sr_Regio151120/tp.php?c=2089&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DEP | HAVOC
+#EXTINF:-1 group-title="DEPORTES",  DEP | HAVOC
 http://srregio.net/Sr_Regio151120/tp.php?c=2148&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DEP | TVC DEP
+#EXTINF:-1 group-title="DEPORTES",  DEP | TVC DEP
 http://srregio.net/Sr_Regio151120/tp.php?c=2157&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DEP | CLARO SPORTS HD  
+#EXTINF:-1 group-title="DEPORTES",  DEP | CLARO SPORTS HD  
 http://srregio.net/Sr_Regio151120/tp.php?c=2564&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DEP | FUEL TV HD 
+#EXTINF:-1 group-title="DEPORTES",  DEP | FUEL TV HD 
 http://srregio.net/Sr_Regio151120/tp.php?c=2587&p=3&k=srregio&f=.m3u8 
 
-#EXTINF:-1, CULT | DISCOVERY ID
+#EXTINF:-1 group-title="CULTURA",  CULT | DISCOVERY ID
 http://srregio.net/Sr_Regio151120/tp.php?c=68&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CULT | GARAGE TV 
+#EXTINF:-1 group-title="CULTURA",  CULT | GARAGE TV 
 http://srregio.net/Sr_Regio151120/tp.php?c=75&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CULT | DISCOVERY CHANNEL
+#EXTINF:-1 group-title="CULTURA",  CULT | DISCOVERY CHANNEL
 http://srregio.net/Sr_Regio151120/tp.php?c=86&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CULT | ANIMAL PLANET
+#EXTINF:-1 group-title="CULTURA",  CULT | ANIMAL PLANET
 http://srregio.net/Sr_Regio151120/tp.php?c=88&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CULT | HISTORY
+#EXTINF:-1 group-title="CULTURA",  CULT | HISTORY
 http://srregio.net/Sr_Regio151120/tp.php?c=89&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CULT | NAT GEO  
+#EXTINF:-1 group-title="CULTURA",  CULT | NAT GEO  
 http://srregio.net/Sr_Regio151120/tp.php?c=91&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CULT | NAT GEO WILD
+#EXTINF:-1 group-title="CULTURA",  CULT | NAT GEO WILD
 http://srregio.net/Sr_Regio151120/tp.php?c=92&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CULT | DISCOVERY THEATER
+#EXTINF:-1 group-title="CULTURA",  CULT | DISCOVERY THEATER
 http://srregio.net/Sr_Regio151120/tp.php?c=95&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, CULT | H&H
+#EXTINF:-1 group-title="CULTURA",  CULT | H&H
 http://srregio.net/Sr_Regio151120/tp.php?c=96&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, CULT | TLC
+#EXTINF:-1 group-title="CULTURA",  CULT | TLC
 http://srregio.net/Sr_Regio151120/tp.php?c=97&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CULT | DISCOVERY SCIENCE  
+#EXTINF:-1 group-title="CULTURA",  CULT | DISCOVERY SCIENCE  
 http://srregio.net/Sr_Regio151120/tp.php?c=98&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CULT | DISCOVERY CIVILIZATION
+#EXTINF:-1 group-title="CULTURA",  CULT | DISCOVERY CIVILIZATION
 http://srregio.net/Sr_Regio151120/tp.php?c=99&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CULT | DISCOVERY WORLD
+#EXTINF:-1 group-title="CULTURA",  CULT | DISCOVERY WORLD
 http://srregio.net/Sr_Regio151120/tp.php?c=101&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CULT | TVE
+#EXTINF:-1 group-title="CULTURA",  CULT | TVE
 http://srregio.net/Sr_Regio151120/tp.php?c=198&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, CULT | SHOPPING
+#EXTINF:-1 group-title="CULTURA",  CULT | SHOPPING
 http://srregio.net/Sr_Regio151120/tp.php?c=1943&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, CULT | FOOD NETWORK 
+#EXTINF:-1 group-title="CULTURA",  CULT | FOOD NETWORK 
 http://srregio.net/Sr_Regio151120/tp.php?c=2145&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, CULT | STAR TVE 
+#EXTINF:-1 group-title="CULTURA",  CULT | STAR TVE 
 http://srregio.net/Sr_Regio151120/tp.php?c=2375&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, CULT | DISCOVERY TURBO
+#EXTINF:-1 group-title="CULTURA",  CULT | DISCOVERY TURBO
 http://srregio.net/Sr_Regio151120/tp.php?c=2379&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CULT | CURIOSITY STREAM
+#EXTINF:-1 group-title="CULTURA",  CULT | CURIOSITY STREAM
 http://srregio.net/Sr_Regio151120/tp.php?c=2594&p=3&k=srregio&f=.m3u8  
 
-#EXTINF:-1, MUSICA | MTV LIVE
+#EXTINF:-1 group-title="MUSICA",  MUSICA | MTV LIVE
 http://srregio.net/Sr_Regio151120/tp.php?c=211&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, MUSICA | MTV
+#EXTINF:-1 group-title="MUSICA",  MUSICA | MTV
 http://srregio.net/Sr_Regio151120/tp.php?c=212&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, MUSICA | MTV HITS SD
+#EXTINF:-1 group-title="MUSICA",  MUSICA | MTV HITS SD
 http://srregio.net/Sr_Regio151120/tp.php?c=213&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, MUSICA | VH1 CLASSIC SD
+#EXTINF:-1 group-title="MUSICA",  MUSICA | VH1 CLASSIC SD
 http://srregio.net/Sr_Regio151120/tp.php?c=214&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, MUSICA | VH1 SD 
+#EXTINF:-1 group-title="MUSICA",  MUSICA | VH1 SD 
 http://srregio.net/Sr_Regio151120/tp.php?c=217&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, MUSICA | TELEHIT URBANO SD
+#EXTINF:-1 group-title="MUSICA",  MUSICA | TELEHIT URBANO SD
 http://srregio.net/Sr_Regio151120/tp.php?c=218&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, MUSICA | TELEHIT +
+#EXTINF:-1 group-title="MUSICA",  MUSICA | TELEHIT +
 http://srregio.net/Sr_Regio151120/tp.php?c=220&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, MUSICA | BANDAMAX SD
+#EXTINF:-1 group-title="MUSICA",  MUSICA | BANDAMAX SD
 http://srregio.net/Sr_Regio151120/tp.php?c=221&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, MUSICA | AZ CLIC
+#EXTINF:-1 group-title="MUSICA",  MUSICA | AZ CLIC
 http://srregio.net/Sr_Regio151120/tp.php?c=223&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, MUSICA | VH1 HD
+#EXTINF:-1 group-title="MUSICA",  MUSICA | VH1 HD
 http://srregio.net/Sr_Regio151120/tp.php?c=334&p=3&k=srregio&f=.m3u8  
 
-#EXTINF:-1, NOT | FOROTV HD
+#EXTINF:-1 group-title="NOTICIAS",  NOT | FOROTV HD
 http://srregio.net/Sr_Regio151120/tp.php?c=4&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, NOT | FOROTV SD
+#EXTINF:-1 group-title="NOTICIAS",  NOT | FOROTV SD
 http://srregio.net/Sr_Regio151120/tp.php?c=19&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NOT | ADN40
+#EXTINF:-1 group-title="NOTICIAS",  NOT | ADN40
 http://srregio.net/Sr_Regio151120/tp.php?c=40&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NOT | ADN 40 HD
+#EXTINF:-1 group-title="NOTICIAS",  NOT | ADN 40 HD
 http://srregio.net/Sr_Regio151120/tp.php?c=184&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NOT | CNN
+#EXTINF:-1 group-title="NOTICIAS",  NOT | CNN
 http://srregio.net/Sr_Regio151120/tp.php?c=185&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NOT | CNN SD
+#EXTINF:-1 group-title="NOTICIAS",  NOT | CNN SD
 http://srregio.net/Sr_Regio151120/tp.php?c=186&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NOT | CNN ESPAÑOL SD
+#EXTINF:-1 group-title="NOTICIAS",  NOT | CNN ESPAÑOL SD
 http://srregio.net/Sr_Regio151120/tp.php?c=187&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, NOT | WOBI 
+#EXTINF:-1 group-title="NOTICIAS",  NOT | WOBI 
 http://srregio.net/Sr_Regio151120/tp.php?c=102&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NOT | FOXN EWS
+#EXTINF:-1 group-title="NOTICIAS",  NOT | FOXN EWS
 http://srregio.net/Sr_Regio151120/tp.php?c=188&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NOT | BLOOMBERG 
+#EXTINF:-1 group-title="NOTICIAS",  NOT | BLOOMBERG 
 http://srregio.net/Sr_Regio151120/tp.php?c=190&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NOT | BBC SD
+#EXTINF:-1 group-title="NOTICIAS",  NOT | BBC SD
 http://srregio.net/Sr_Regio151120/tp.php?c=191&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NOT | AL JAAZERA 
+#EXTINF:-1 group-title="NOTICIAS",  NOT | AL JAAZERA 
 http://srregio.net/Sr_Regio151120/tp.php?c=192&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NOT | NTN 24
+#EXTINF:-1 group-title="NOTICIAS",  NOT | NTN 24
 http://srregio.net/Sr_Regio151120/tp.php?c=194&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NOT | JUSTICIA TV 
+#EXTINF:-1 group-title="NOTICIAS",  NOT | JUSTICIA TV 
 http://srregio.net/Sr_Regio151120/tp.php?c=196&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NOT | HLN
+#EXTINF:-1 group-title="NOTICIAS",  NOT | HLN
 http://srregio.net/Sr_Regio151120/tp.php?c=197&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NOT | DW 
+#EXTINF:-1 group-title="NOTICIAS",  NOT | DW 
 http://srregio.net/Sr_Regio151120/tp.php?c=203&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NOT | RT
+#EXTINF:-1 group-title="NOTICIAS",  NOT | RT
 http://srregio.net/Sr_Regio151120/tp.php?c=999&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NOT | MILENIO HD
+#EXTINF:-1 group-title="NOTICIAS",  NOT | MILENIO HD
 http://srregio.net/Sr_Regio151120/tp.php?c=1250&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NOT | MILENIO SD 
+#EXTINF:-1 group-title="NOTICIAS",  NOT | MILENIO SD 
 http://srregio.net/Sr_Regio151120/tp.php?c=1252&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NOT | EXCELSIOR TV
+#EXTINF:-1 group-title="NOTICIAS",  NOT | EXCELSIOR TV
 http://srregio.net/Sr_Regio151120/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NOT | EL FINANCIERO HD 
+#EXTINF:-1 group-title="NOTICIAS",  NOT | EL FINANCIERO HD 
 http://srregio.net/Sr_Regio151120/tp.php?c=1649&p=3&k=srregio&f=.m3u8  
- #EXTINF:-1, NOT | RT ESPAÑOL
+ #EXTINF:-1 group-title="NOTICIAS",  NOT | RT ESPAÑOL
 http://srregio.net/Sr_Regio151120/tp.php?c=2091&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NOT | FRANCE 24
+#EXTINF:-1 group-title="NOTICIAS",  NOT | FRANCE 24
 http://srregio.net/Sr_Regio151120/tp.php?c=2402&p=3&k=srregio&f=.m3u8
-
-#EXTM3U
-#EXTINF:-1,XXX | ALBA XXX 2 FULLHD (LIVE)
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/9905
-#EXTINF:-1,XXX | BARELY LEGAL FULLHD ( 18)
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/9906
-#EXTINF:-1,XXX | BLACKED FULLHD
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/9901
-#EXTINF:-1,XXX | BRAZZERS TV EUROPE (LIVE)
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/9908
-#EXTINF:-1,XXX | CANDY FULL HD (LIVE)
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/9909
-#EXTINF:-1,XXX | HUSTLER 4K/HDR
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/9900
-#EXTINF:-1,XXX | HUSTLER EUROPE FULLHD
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/9902
-#EXTINF:-1,XXX | HUSTLER TV FULLHD
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/9903
-#EXTINF:-1,XXX | HUSTLER HD
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10131
-#EXTINF:-1,XXX | PLAYBOY EUROPE
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10132
-#EXTINF:-1,XXX | ERO X
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10133
-#EXTINF:-1,XXX | PENTHOUSE BLACK
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10134
-#EXTINF:-1,XXX | FAP TV TEENS
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10135
-#EXTINF:-1,XXX | CANDY TV
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10136
-#EXTINF:-1,XXX | FAP TV 2
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10137
-#EXTINF:-1,XXX | PARODY TO
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10138
-#EXTINF:-1,XXX | BEST ANAL
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10139
-#EXTINF:-1,XXX | BRAZZERS
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10140
-#EXTINF:-1,XXX | FAP TV LESBIAN https://iptv.live
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10141
-#EXTINF:-1,XXX | FAP TV COMPILATION
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10142
-#EXTINF:-1,XXX | PREMIUM PORN
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10143
-#EXTINF:-1,XXX | BLUE HUSTLER
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10144
-#EXTINF:-1,XXX | PASSIE
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10145
-#EXTINF:-1,XXX | REALITY KING
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10146
-#EXTINF:-1,XXX | HOT HOT
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10147
-#EXTINF:-1,XXX | YOUNG ENOUGH
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10148
-#EXTINF:-1,XXX | PARTY LIFE
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10150
-#EXTINF:-1,XXX | PENTHOUSE QUICKIES
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10151
-#EXTINF:-1,XXX | HOT FRENCH SEX
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10152
-#EXTINF:-1,XXX | TABOO SO WRONG
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10153
-#EXTINF:-1,XXX | OLD BUT GOOD
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10154
-#EXTINF:-1,XXX | MILF LOVE
-http://185.216.140.88:8080/q3srwgCQ/T82QF2shCK/10155
-#EXTINF:-1,ADULTOS|BRAZZERSTV
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/2450
-#EXTINF:-1,ADULTOS|PRIVATE_LA8
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/17605
-#EXTINF:-1,ADULTOS|PRIVATE_LA9
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/17606
-#EXTINF:-1,XXX|EROTIC_6LA1
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/17665
-#EXTINF:-1,ADULTOS24/7|RedTrafficBigAssHD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/1348
-#EXTINF:-1,ADULTOS24/7|RedTrafficBigDick
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/1349
-#EXTINF:-1,ADULTOS24/7|RedTrafficBigTitsHD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/1350
-#EXTINF:-1,ADULTOS24/7|RedTrafficBlowjobHD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/1351
-#EXTINF:-1,ADULTOS24/7|RedTrafficCuckoldHD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/1352
-#EXTINF:-1,ADULTOS24/7|RedTrafficFetishHD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/1353
-#EXTINF:-1,ADULTOS24/7|RedTrafficHardcoreHD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/1354
-#EXTINF:-1,ADULTOS24/7|RedTrafficInterracialHD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/1355
-#EXTINF:-1,ADULTOS24/7|RedTrafficLatinaHD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/1356
-#EXTINF:-1,ADULTOS24/7|RedTrafficLesbianHD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/1357
-#EXTINF:-1,ADULTOS24/7|RedTrafficMILFHD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/1358
-#EXTINF:-1,ADULTOS24/7|RedTrafficPornstarHD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/1359
-#EXTINF:-1,ADULTOS24/7|RedTrafficPOVHD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/1360
-#EXTINF:-1,ADULTOS24/7|RedTrafficRussianHD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/1361
-#EXTINF:-1,ADULTOS24/7|RedTrafficTeenHD https://iptv.live
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/1362
-#EXTINF:-1,ADULTOS24/7|RedTrafficThreesomeHD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/1363
-#EXTINF:-1,USA|MiamiTVHD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/56710
-#EXTINF:-1,USA|MiamiTVInternacional
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/56721
-#EXTINF:-1,DarkFHD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/42971
-#EXTINF:-1,XXX:EROTIC_1LA2
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69628
-#EXTINF:-1,XXX:EROTIC_1LA3
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69629
-#EXTINF:-1,XXX:EROTIC_1LA4
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69630
-#EXTINF:-1,XXX:EROTIC_1LA5
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69631
-#EXTINF:-1,XXX:EROTIC_1LA6
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69632
-#EXTINF:-1,XXX:EROTIC_2LA1
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69633
-#EXTINF:-1,XXX:EROTIC_2LA2
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69634
-#EXTINF:-1,XXX:EROTIC_2LA3
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69635
-#EXTINF:-1,XXX:EROTIC_2LA4
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69636
-#EXTINF:-1,XXX:EROTIC_2LA5
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69637
-#EXTINF:-1,XXX:EROTIC_2LA6
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69638
-#EXTINF:-1,XXX:EROTIC_3LA1
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69639
-#EXTINF:-1,XXX:EROTIC_4LA1
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69640
-#EXTINF:-1,XXX:EROTIC_4LA2
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69641
-#EXTINF:-1,XXX:EROTIC_4LA3
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69642
-#EXTINF:-1,XXX:EROTIC_4LA4
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69643
-#EXTINF:-1,XXX:EROTIC_4LA5
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69644
-#EXTINF:-1,XXX:EROTIC_5LA1
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69645
-#EXTINF:-1,XXX:EROTIC_5LA2
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69646
-#EXTINF:-1,XXX:EROTIC_5LA3
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69647
-#EXTINF:-1,XXX:EROTIC_5LA3
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69648
-#EXTINF:-1,XXX:EROTIC_5LA5
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69649
-#EXTINF:-1,XXX:EROTIC_6LA1
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69650
-#EXTINF:-1,XXX:EROTIC_6LA2
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69651
-#EXTINF:-1,XXX:EROTIC_6LA3
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69652
-#EXTINF:-1,XXX:EROTIC_6LA4
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69653
-#EXTINF:-1,XXX:EROTIC_6LA5
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69654
-#EXTINF:-1,XXX:EROTIC_6LA6
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69655
-#EXTINF:-1,XXX:EROTIC_7LA1
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69656
-#EXTINF:-1,XXX:EROTIC_7LA3
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69657
-#EXTINF:-1,XXX:EROTIC_7LA4
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69658
-#EXTINF:-1,XXX:EROTIC_7LA5 https://iptv.live
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69659
-#EXTINF:-1,XXX:EROTIC_7LA6
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69660
-#EXTINF:-1,XXX:HOT_LA1
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69661
-#EXTINF:-1,XXX:HOT_LA10
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69662
-#EXTINF:-1,XXX:HOT_LA2
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69663
-#EXTINF:-1,XXX:HOT_LA3
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69664
-#EXTINF:-1,XXX:HOT_LA4
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69665
-#EXTINF:-1,XXX:HOT_LA5
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69666
-#EXTINF:-1,XXX:HOT_LA6
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69667
-#EXTINF:-1,XXX:HOT_LA7
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69668
-#EXTINF:-1,XXX:HOT_LA8
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69669
-#EXTINF:-1,XXX:HOT_LA9
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69670
-#EXTINF:-1,XXX:PINKO_LA1
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69671
-#EXTINF:-1,XXX:PINKO_LA10
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69672
-#EXTINF:-1,XXX:PINKO_LA3
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69673
-#EXTINF:-1,XXX:PINKO_LA4
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69674
-#EXTINF:-1,XXX:PINKO_LA5
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69675
-#EXTINF:-1,XXX:PINKO_LA6
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69676
-#EXTINF:-1,XXX:PINKO_LA8
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69677
-#EXTINF:-1,XXX:PINKO_LA9
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69678
-#EXTINF:-1,XXX:PRIVATE_LA10
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69679
-#EXTINF:-1,XXX:PRIVATE_LA11
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69680
-#EXTINF:-1,XXX:PRIVATE_LA12
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69681
-#EXTINF:-1,XXX:PRIVATE_LA13
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69682
-#EXTINF:-1,XXX:PRIVATE_LA14
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69683
-#EXTINF:-1,XXX:PRIVATE_LA2
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69684
-#EXTINF:-1,XXX:PRIVATE_LA3
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69685
-#EXTINF:-1,XXX:PRIVATE_LA4
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69686
-#EXTINF:-1,XXX:PRIVATE_LA5
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69687
-#EXTINF:-1,XXX:PRIVATE_LA6
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69688
-#EXTINF:-1,XXX:PRIVATE_LA7
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69689
-#EXTINF:-1,XXX:PRIVATE_LA8
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69690
-#EXTINF:-1,XXX:PRIVATE_LA9
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69691
-#EXTINF:-1,XXX:SEXTREME_LA1
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69692
-#EXTINF:-1,XXX:SEXTREME_LA2
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69693
-#EXTINF:-1,XXX:SEXTREME_LA3
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69694
-#EXTINF:-1,XXX:SEXTREME_LA5
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69695
-#EXTINF:-1,XXX:SEXTREME_LA6
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69696
-#EXTINF:-1,XXX:VENUS_LA2
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69697
-#EXTINF:-1,XXX:VENUS_LA3
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69698
-#EXTINF:-1,XXX:VENUS_LA4
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69699
-#EXTINF:-1,XXX:VENUS_LA5
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69700
-#EXTINF:-1,XXX:VENUS_LA6
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/69701
-#EXTINF:-1,XXX:PLAYBOY|SD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/81952
-#EXTINF:-1,XXX:PLAYBOY
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/81953
-#EXTINF:-1,XXX:PLAYBOYEUROPE
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/81954
-#EXTINF:-1,HD_PLAYBOY_1920
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/81955
-#EXTINF:-1,XXX:HUSTLERHD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/81956
-#EXTINF:-1,XXX:HUSTLERTV
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/81957
-#EXTINF:-1,XXX:HUSTLERTV|SD
-http://maxpremiumtv.xyz:8080/mhd1/hwkvfg0tcT/81958
-#EXTINF:-1,XXX: Alba XXX 1
-http://103.136.42.168:8080/F11511/a814b516/3307
-#EXTINF:-1,XXX: Alba XXX 2
-http://103.136.42.168:8080/F11511/a814b516/8310
-#EXTINF:-1,XXX: Alba XXX 3
-http://103.136.42.168:8080/F11511/a814b516/8315
-#EXTINF:-1,XXX: Alba XXX 4
-http://103.136.42.168:8080/F11511/a814b516/8314
-#EXTINF:-1,XXX: Alba XXX 5
-http://103.136.42.168:8080/F11511/a814b516/8313
-#EXTINF:-1,XXX: Alba XXX 6
-http://103.136.42.168:8080/F11511/a814b516/8312
-#EXTINF:-1,XXX: Alba XXX HD1
-http://103.136.42.168:8080/F11511/a814b516/8311
-#EXTINF:-1,XXX: Alba XXX HD2
-http://103.136.42.168:8080/F11511/a814b516/201240
-#EXTINF:-1,XXX: babestv
-http://103.136.42.168:8080/F11511/a814b516/3289
-#EXTINF:-1,XXX: BALKAN EROTIC
-http://103.136.42.168:8080/F11511/a814b516/3320
-#EXTINF:-1,XXX: BARELY LEGAL
-http://103.136.42.168:8080/F11511/a814b516/92037
-#EXTINF:-1,XXX: BEATE UHSE TV
-http://103.136.42.168:8080/F11511/a814b516/3341
-#EXTINF:-1,XXX: BLUE HUSTLER
-http://103.136.42.168:8080/F11511/a814b516/37296
-#EXTINF:-1,XXX: BRAZZERS TV EUROPE
-http://103.136.42.168:8080/F11511/a814b516/2
-#EXTINF:-1,XXX: CANDYMAN
-http://103.136.42.168:8080/F11511/a814b516/189949
-#EXTINF:-1,XXX: CENT X CENTO
-http://103.136.42.168:8080/F11511/a814b516/145666
-#EXTINF:-1,XXX: DORCEL FHD
-http://103.136.42.168:8080/F11511/a814b516/53152
-#EXTINF:-1,XXX: DORCEL XXX FHD
-http://103.136.42.168:8080/F11511/a814b516/3283
-#EXTINF:-1,XXX: DUSK! https://iptv.live
-http://103.136.42.168:8080/F11511/a814b516/75
-#EXTINF:-1,XXX: ERO X FHD
-http://103.136.42.168:8080/F11511/a814b516/3796
-#EXTINF:-1,XXX: ERO XXX FHD
-http://103.136.42.168:8080/F11511/a814b516/37276
-#EXTINF:-1,XXX: EROTIC
-http://103.136.42.168:8080/F11511/a814b516/37153
-#EXTINF:-1,XXX: erotic 2 HD
-http://103.136.42.168:8080/F11511/a814b516/76
-#EXTINF:-1,XXX: erotic 3
-http://103.136.42.168:8080/F11511/a814b516/3317
-#EXTINF:-1,XXX: erotic 4 HD
-http://103.136.42.168:8080/F11511/a814b516/52
-#EXTINF:-1,XXX: erotic 5
-http://103.136.42.168:8080/F11511/a814b516/35814
-#EXTINF:-1,XXX: erotic 6
-http://103.136.42.168:8080/F11511/a814b516/77
-#EXTINF:-1,XXX: erotic 7
-http://103.136.42.168:8080/F11511/a814b516/3318
-#EXTINF:-1,XXX: erotic 8
-http://103.136.42.168:8080/F11511/a814b516/3319
-#EXTINF:-1,XXX: EXTASY 4K
-http://103.136.42.168:8080/F11511/a814b516/195567
-#EXTINF:-1,XXX: HOT
-http://103.136.42.168:8080/F11511/a814b516/1538
-#EXTINF:-1,XXX: HUSTLER HD
-http://103.136.42.168:8080/F11511/a814b516/6028
-#EXTINF:-1,XXX:
-http://103.136.42.168:8080/F11511/a814b516/375
-#EXTINF:-1,XXX: MEIDEN VAN HOLLAND
-http://103.136.42.168:8080/F11511/a814b516/3311
-#EXTINF:-1,XXX: MIAMI TV
-http://103.136.42.168:8080/F11511/a814b516/1731
-#EXTINF:-1,XXX: MIAMI TV LATINO
-http://103.136.42.168:8080/F11511/a814b516/18344
-#EXTINF:-1,XXX: MIAMI TV MEXICO
-http://103.136.42.168:8080/F11511/a814b516/172256
-#EXTINF:-1,XXX: NAKED & AFRAID
-http://103.136.42.168:8080/F11511/a814b516/247257
-#EXTINF:-1,XXX: Naked Attraction
-http://103.136.42.168:8080/F11511/a814b516/260280
-#EXTINF:-1,XXX: NUART TV
-http://103.136.42.168:8080/F11511/a814b516/49169
-#EXTINF:-1,XXX:
-http://103.136.42.168:8080/F11511/a814b516/36535
-#EXTINF:-1,XXX: OLDTIMER HD
-http://103.136.42.168:8080/F11511/a814b516/3322
-#EXTINF:-1,XXX: PASSIE XXX HD
-http://103.136.42.168:8080/F11511/a814b516/28298
-#EXTINF:-1,XXX: PASSION XXX HD
-http://103.136.42.168:8080/F11511/a814b516/48
-#EXTINF:-1,XXX: PENTHOUSE GOLD
-http://103.136.42.168:8080/F11511/a814b516/32056
-#EXTINF:-1,XXX: PENTHOUSE QUICKIES
-http://103.136.42.168:8080/F11511/a814b516/3284
-#EXTINF:-1,XXX: PINKOCLUB
-http://103.136.42.168:8080/F11511/a814b516/3342
-#EXTINF:-1,XXX: PLAYBOY EUROPE
-http://103.136.42.168:8080/F11511/a814b516/67686
-#EXTINF:-1,XXX: PLAYBOY HD
-http://103.136.42.168:8080/F11511/a814b516/14222
-#EXTINF:-1,XXX: PRIVATE HD
-http://103.136.42.168:8080/F11511/a814b516/3281
-#EXTINF:-1,XXX: REALITY KINGS
-http://103.136.42.168:8080/F11511/a814b516/383
-#EXTINF:-1,XXX: REDLIGHT FHD
-http://103.136.42.168:8080/F11511/a814b516/85
-#EXTINF:-1,XXX: RUSSIAN NIGHT
-http://103.136.42.168:8080/F11511/a814b516/49168
-#EXTINF:-1,XXX: SEXTREME
-http://103.136.42.168:8080/F11511/a814b516/3309
-#EXTINF:-1,XXX: SEXY HOT https://iptv.live
-http://103.136.42.168:8080/F11511/a814b516/3310
-#EXTINF:-1,XXX: SUPERONE HD
-http://103.136.42.168:8080/F11511/a814b516/3286
-#EXTINF:-1,XXX: VENUS TV
-http://103.136.42.168:8080/F11511/a814b516/3258
-#EXTINF:-1,XXX: Visit-X TV
-http://103.136.42.168:8080/F11511/a814b516/28531
-#EXTINF:-1,XXX: VIVID RED HD
-http://103.136.42.168:8080/F11511/a814b516/3989
-#EXTINF:-1,XXX: VIVID Touch
-http://103.136.42.168:8080/F11511/a814b516/260281
-#EXTINF:-1,XXX: VIVID TV Europe HD
-http://103.136.42.168:8080/F11511/a814b516/146434
-#EXTINF:-1,XXX: XDREAM TV
-http://103.136.42.168:8080/F11511/a814b516/188977
-#EXTINF:-1,XXX: XY MAX
-http://103.136.42.168:8080/F11511/a814b516/192282
-#EXTINF:-1,XXX: XY MIX
-http://103.136.42.168:8080/F11511/a814b516/3293
-#EXTINF:-1,XXX: XY PLUS
-http://103.136.42.168:8080/F11511/a814b516/3291
-#EXTINF:-1,BRASILEIRINHAS
-http://tigeriptv.vip:8080/9540/9540/84010
-#EXTINF:-1,CINE PRIVE 1
-http://jserverstv.xyz:2082/123456/654321/140458
-#EXTINF:-1,CINE PRIVE 2
-http://jserverstv.xyz:2082/123456/654321/140459
-#EXTINF:-1,CINE PRIVE 3
-http://jserverstv.xyz:2082/123456/654321/140460
-#EXTINF:-1,As Brasileirinhas 1
-http://jserverstv.xyz:2082/123456/654321/140461
-#EXTINF:-1,As Brasileirinhas 2
-http://jserverstv.xyz:2082/123456/654321/140462
-#EXTINF:-1,As Brasileirinhas 3
-http://jserverstv.xyz:2082/123456/654321/140463
-#EXTINF:-1,As Brasileirinhas 4
-http://jserverstv.xyz:2082/123456/654321/140464
-#EXTINF:-1,As Brasileirinhas 5
-http://jserverstv.xyz:2082/123456/654321/140465
-#EXTINF:-1,24H REDTRAFFIC TV GANGBANG
-http://jserverstv.xyz:2082/123456/654321/140466
-#EXTINF:-1,XXX - VENUS HD
-http://jserverstv.xyz:2082/123456/654321/140467
-#EXTINF:-1,24H BISEXUAL
-http://jserverstv.xyz:2082/123456/654321/140468
-#EXTINF:-1,24H A Casa Das Brasileirinhas
-http://jserverstv.xyz:2082/123456/654321/140469
-#EXTINF:-1,BRASILEIRINHAS
-http://jserverstv.xyz:2082/123456/654321/140471
-#EXTINF:-1,JASMIM
-http://jserverstv.xyz:2082/123456/654321/140472
-#EXTINF:-1,SEXY HOT
-http://jserverstv.xyz:2082/123456/654321/140473
-#EXTINF:-1,SEXY PRIVE https://iptv.live
-http://jserverstv.xyz:2082/123456/654321/140474
-#EXTINF:-1,TRANNY TV
-http://jserverstv.xyz:2082/123456/654321/140475
-#EXTINF:-1,SEXY HOT FHD
-http://jserverstv.xyz:2082/123456/654321/140476
-#EXTINF:-1,Venus FHD
-http://jserverstv.xyz:2082/123456/654321/140477
-#EXTINF:-1,PLAYBOY HD
-http://jserverstv.xyz:2082/123456/654321/140478
-#EXTINF:-1,XXX: Black of Blondes 1 FHD
-http://jserverstv.xyz:2082/123456/654321/140479
-#EXTINF:-1,XXX: Black of Blondes 2 FHD
-http://jserverstv.xyz:2082/123456/654321/140480
-#EXTINF:-1,XXX: Black of Blondes 3 FHD
-http://jserverstv.xyz:2082/123456/654321/140481
-#EXTINF:-1,XXX: Black of Blondes 4 FHD
-http://jserverstv.xyz:2082/123456/654321/140482
-#EXTINF:-1,XXX: Black of Blondes 5 FHD
-http://jserverstv.xyz:2082/123456/654321/140483
-#EXTINF:-1,XXX: Black of Blondes 6 FHD
-http://jserverstv.xyz:2082/123456/654321/140484
-#EXTINF:-1,XXX: Black of Blondes 7 FHD
-http://jserverstv.xyz:2082/123456/654321/140485
-#EXTINF:-1,XXX: Black of Blondes 8 FHD
-http://jserverstv.xyz:2082/123456/654321/140486
-#EXTINF:-1,XXX: Black of Blondes 9 FHD
-http://jserverstv.xyz:2082/123456/654321/140487
-#EXTINF:-1,XXX: Black of Blondes 10 FHD
-http://jserverstv.xyz:2082/123456/654321/140488
-#EXTINF:-1,XXX: Black of Blondes 11 FHD
-http://jserverstv.xyz:2082/123456/654321/140489
-#EXTINF:-1,XXX: Black of Blondes 12 FHD
-http://jserverstv.xyz:2082/123456/654321/140490
-#EXTINF:-1,XXX: Black of Blondes 13 FHD
-http://jserverstv.xyz:2082/123456/654321/140491
-#EXTINF:-1,XXX: Black of Blondes 14 FHD
-http://jserverstv.xyz:2082/123456/654321/140492
-#EXTINF:-1,XXX: Black of Blondes 15 FHD
-http://jserverstv.xyz:2082/123456/654321/140493
-#EXTINF:-1,XXX: Adulte FULL 1 HD
-http://jserverstv.xyz:2082/123456/654321/140494
-#EXTINF:-1,XXX: Adulte FULL 2 HD
-http://jserverstv.xyz:2082/123456/654321/140495
-#EXTINF:-1,XXX: Adulte FULL 3 HD
-http://jserverstv.xyz:2082/123456/654321/140496
-#EXTINF:-1,XXX: Adulte FULL 4 HD
-http://jserverstv.xyz:2082/123456/654321/140497
-#EXTINF:-1,XXX: Adulte FULL 6 HD
-http://jserverstv.xyz:2082/123456/654321/140498
-#EXTINF:-1,XXX: Adulte FULL 7 HD
-http://jserverstv.xyz:2082/123456/654321/140499
-#EXTINF:-1,XXX: Adulte FULL 8 HD
-http://jserverstv.xyz:2082/123456/654321/140500
-#EXTINF:-1,XXX: Adulte FULL 9 HD
-http://jserverstv.xyz:2082/123456/654321/140501
-#EXTINF:-1,XXX: Adulte FULL 10 HD
-http://jserverstv.xyz:2082/123456/654321/140502
-#EXTINF:-1,XXX: Adulte FULL 11 HD
-http://jserverstv.xyz:2082/123456/654321/140503
-#EXTINF:-1,XXX: Adulte FULL 12 HD
-http://jserverstv.xyz:2082/123456/654321/140504
-#EXTINF:-1,XXX: Adulte FULL 13 HD
-http://jserverstv.xyz:2082/123456/654321/140505
-#EXTINF:-1,XXX: Adulte FULL 14 HD
-http://jserverstv.xyz:2082/123456/654321/140506
-#EXTINF:-1,XXX: Adulte FULL 15 HD
-http://jserverstv.xyz:2082/123456/654321/140507
-#EXTINF:-1,XXX: Adulte FULL 16 HD
-http://jserverstv.xyz:2082/123456/654321/140508
-#EXTINF:-1,XXX: Adulte FULL 17 HD
-http://jserverstv.xyz:2082/123456/654321/140509
