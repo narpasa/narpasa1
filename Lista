@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, NAC | ONCE NINOS (CLASES)
+#EXTINF:-1, group-title="NAC",  NAC | ONCE NINOS (CLASES)
 http://srregio.net/Sr_Regio151120/tp.php?c=3315&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, NAC | AZTECA 7.3 (CLASES)
 http://srregio.net/Sr_Regio151120/tp.php?c=3316&p=3&k=srregio&f=.m3u8 
@@ -366,3 +366,7 @@ http://srregio.net/Sr_Regio151120/tp.php?c=1649&p=3&k=srregio&f=.m3u8
 http://srregio.net/Sr_Regio151120/tp.php?c=2091&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, NOT | FRANCE 24
 http://srregio.net/Sr_Regio151120/tp.php?c=2402&p=3&k=srregio&f=.m3u8 
+
+
+  
+
