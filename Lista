@@ -2085,5 +2085,7 @@ http://204.199.120.34:16123/play/ch71
 http://204.199.120.34:16123/play/ch73
 #EXTINF:-1 group-title="TV4", EXTRA
 http://204.199.120.34:16123/play/CH90
-#EXTINF:-1 group-title="TV4", ISAT
-http://204.199.120.34:16123/play/a064
+#EXTINF:-1 group-title="Prueba", ISAT
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1697188542/ei/XrYoZZ3oJvaV2_gPgL-LiAE/ip/2605:59c8:42c6:4b00:6457:a364:6066:c345/id/ULQhvIGG27Q.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-q4flrn7r.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f50ZqHs5GyLDFCs4iWamUsuP2iI/vprv/1/playlist_type/DVR/hcs/ir/initcwndbps/636250/mh/42/mm/44/mn/sn-q4flrn7r/ms/lva/mv/m/mvi/5/pl/40/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1697166528/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AGM4YrMwRQIhAK0XE8gR1s2IyF2TmCvBkcp68rYr0qXC7-5nek72MtF6AiA6c6Com6kbQTtIE0IFOZolVnsXMZKNB1TGjR8egozbkA%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRQIhAPseGZy3tS-k03EI_fR4CcqwqRWGPa-wKlWZ0WQ-QVnIAiB_O_bV_ei9JsSw87pHjVZcoO56-reYgXQMd6Wn-f0VrQ%3D%3D/playlist/index.m3u8
+
+
