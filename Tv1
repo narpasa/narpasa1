@@ -1,1 +1,395 @@
-
+#EXTM3U
+#EXTINF:-1  group-title="TV", Azteca UNO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=1
+#EXTINF:-1  group-title="TV", Azteca 7
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=3
+#EXTINF:-1  group-title="TV", Azteca 7 (2)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=4
+#EXTINF:-1  group-title="TV", Canal ONCE
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=5
+#EXTINF:-1  group-title="TV", Canal 14
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=6
+#EXTINF:-1  group-title="TV", Canal 22
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=7
+#EXTINF:-1  group-title="TV", Canal 5
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=9
+#EXTINF:-1  group-title="TV", Canal 5 (2)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=10
+#EXTINF:-1  group-title="TV", Unknow
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=11
+#EXTINF:-1  group-title="TV", Unknow 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=12
+#EXTINF:-1  group-title="TV", Unknow 3
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=13
+#EXTINF:-1  group-title="TV", Imagen TV
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=14
+#EXTINF:-1  group-title="TV", DreamWorks
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=15
+#EXTINF:-1  group-title="TV", Las estrellas
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=16
+#EXTINF:-1  group-title="TV", Las estrellas 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=17
+#EXTINF:-1  group-title="TV", Mexiquense
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=18
+#EXTINF:-1  group-title="TV", Desconocido
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=20
+#EXTINF:-1  group-title="TV", Unicable
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=21
+#EXTINF:-1  group-title="TV", Canal 10
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=22
+#EXTINF:-1  group-title="TV", Canal 15
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=23
+#EXTINF:-1  group-title="TV", DW
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=26
+#EXTINF:-1  group-title="TV", ADN40
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=44
+#EXTINF:-1  group-title="TV", Pqueradio
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=46
+#EXTINF:-1  group-title="TV", WowTV
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=47
+#EXTINF:-1  group-title="TV", Corazon
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=65
+#EXTINF:-1  group-title="TV", A&E
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=61
+#EXTINF:-1  group-title="TV", AXN
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=62
+#EXTINF:-1  group-title="TV", AXN (2)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=64
+#EXTINF:-1  group-title="TV", DESCONOCIDO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=66
+#EXTINF:-1  group-title="TV", CARACOL TV
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=68
+#EXTINF:-1  group-title="TV", GLITZ
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=69
+#EXTINF:-1  group-title="TV", PASIONES
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=70
+#EXTINF:-1  group-title="TV", RCN
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=71
+#EXTINF:-1  group-title="TV", DESCONOCIDO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=72
+#EXTINF:-1  group-title="TV", COMEDY CENTRAL
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=73
+#EXTINF:-1  group-title="TV", DISCOVERY ID
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=75
+#EXTINF:-1  group-title="TV", DISTRITO COMEDIA 
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=76
+#EXTINF:-1  group-title="TV", COMEDY CENTRAL (2)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=77
+#EXTINF:-1  group-title="TV", TRECE
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=78
+#EXTINF:-1  group-title="TV", DESCONOCIDO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=79
+#EXTINF:-1  group-title="TV", MTV
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=82
+#EXTINF:-1  group-title="TV", PARAMOUNT NETWORK
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=83
+#EXTINF:-1  group-title="TV", TELEMUNDO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=87
+#EXTINF:-1  group-title="TV", SONY
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=91
+#EXTINF:-1  group-title="TV", TBS
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=93
+#EXTINF:-1  group-title="TV", TBS (2)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=94
+#EXTINF:-1  group-title="TV", TELEMUNDO (2)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=95
+#EXTINF:-1  group-title="TV", TELEMUNDO (3)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=96
+#EXTINF:-1  group-title="TV", TELEMUNDO (4)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=97
+#EXTINF:-1  group-title="TV", TLNOVELAS
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=98
+#EXTINF:-1  group-title="TV", TNT SERIES
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=99
+#EXTINF:-1  group-title="TV", TRUTV
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=100
+#EXTINF:-1  group-title="TV", TRUTV (2)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=101
+#EXTINF:-1  group-title="TV", UNIMAS
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=102
+#EXTINF:-1  group-title="TV", CLARO SPORTS
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=103
+#EXTINF:-1  group-title="TV", UNIVERSAL CHANNEL
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=104
+#EXTINF:-1  group-title="TV", UNIVERSAL CHANNEL (2)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=105
+#EXTINF:-1  group-title="TV", DESCONOCIDO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=106
+#EXTINF:-1  group-title="TV", WARNER
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=107
+#EXTINF:-1  group-title="TV", WARNER
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=108
+#EXTINF:-1  group-title="TV", BABYTV
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=109
+#EXTINF:-1  group-title="TV", BITME
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=110
+#EXTINF:-1  group-title="TV", CARTOONITO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=111
+#EXTINF:-1  group-title="TV", CARTOON NETWORK
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=112
+#EXTINF:-1  group-title="TV", CARTOON NETWORK (2)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=113
+#EXTINF:-1  group-title="TV", DISCOVERY KIDS
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=114
+#EXTINF:-1  group-title="TV", DISCOVERY KIDS (2)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=115
+#EXTINF:-1  group-title="TV", DISNEY CHANNEL
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=116
+#EXTINF:-1  group-title="TV", DISNEY CHANNEL (2)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=117
+#EXTINF:-1  group-title="TV", DISNEY JR
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=118
+#EXTINF:-1  group-title="TV", DISNEY JR (2)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=119
+#EXTINF:-1  group-title="TV", DISNEY CHANNEL
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=120
+#EXTINF:-1  group-title="TV", TP CLAN
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=121
+#EXTINF:-1  group-title="TV", TP CLAN 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=122
+#EXTINF:-1  group-title="TV", BOING
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=123
+#EXTINF:-1  group-title="TV", NICK JR
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=124
+#EXTINF:-1  group-title="TV", NICK
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=125
+#EXTINF:-1  group-title="TV", NICK 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=126
+#EXTINF:-1  group-title="TV", NICK JR
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=128
+#EXTINF:-1  group-title="TV", NICK JR 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=129
+#EXTINF:-1  group-title="TV", NICKTOONS
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=130
+#EXTINF:-1  group-title="TV", TEEN NICK
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=131
+#EXTINF:-1  group-title="TV", TEEN NICK 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=132
+#EXTINF:-1  group-title="TV", PBS KIDS
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=133
+#EXTINF:-1  group-title="TV", CARTOONITO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=134
+#EXTINF:-1  group-title="TV", TOONCAST
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=135
+#EXTINF:-1  group-title="TV", UNIVERSAL KIDS
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=136
+#EXTINF:-1  group-title="TV", ANIMAL PLANET
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=137
+#EXTINF:-1  group-title="TV", ANIMAL PLANET 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=138
+#EXTINF:-1  group-title="TV", NAT GEO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=139
+#EXTINF:-1  group-title="TV", DISCOVERY CHANNEL
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=142
+#EXTINF:-1  group-title="TV", DISCOVERY CHANNEL 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=143
+#EXTINF:-1  group-title="TV", H&H
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=144
+#EXTINF:-1  group-title="TV", H&H
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=145
+#EXTINF:-1  group-title="TV", DISCOVERY SCIENCE
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=146
+#EXTINF:-1  group-title="TV", DISCOVERY THEATER
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=147
+#EXTINF:-1  group-title="TV", DISCOVERY TURBO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=149
+#EXTINF:-1  group-title="TV", DISCOVERY WORLD
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=150
+#EXTINF:-1  group-title="TV", DISCOVERY WORLD 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=151
+#EXTINF:-1  group-title="TV", GOURMET
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=152
+#EXTINF:-1  group-title="TV", E!
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=153
+#EXTINF:-1  group-title="TV", FOODNETWORK
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=154
+#EXTINF:-1  group-title="TV", LAS ESTRELLAS -2HR
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=155
+#EXTINF:-1  group-title="TV", HISTORY
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=156
+#EXTINF:-1  group-title="TV", HISTORY (2)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=157
+#EXTINF:-1  group-title="TV", H2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=158
+#EXTINF:-1  group-title="TV", H2 (2)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=159
+#EXTINF:-1  group-title="TV", LIFETIME
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=162
+#EXTINF:-1  group-title="TV", LIFETIME (2)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=163
+#EXTINF:-1  group-title="TV", NAT GEO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=166
+#EXTINF:-1  group-title="TV", NAT GEO (2)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=167
+#EXTINF:-1  group-title="TV", TLC
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=168
+#EXTINF:-1  group-title="TV", TLC (2)
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=169
+#EXTINF:-1  group-title="TV", DESCONOCIDO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=171
+#EXTINF:-1  group-title="TV", AMC
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=172
+#EXTINF:-1  group-title="TV", AMC 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=173
+#EXTINF:-1  group-title="TV", SPACE
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=174
+#EXTINF:-1  group-title="TV", CINECANAL
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=177
+#EXTINF:-1  group-title="TV", CINECANAL
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=178
+#EXTINF:-1  group-title="TV", CINEMAX
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=179
+#EXTINF:-1  group-title="TV", DHE
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=180
+#EXTINF:-1  group-title="TV", DE PELICULA
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=181
+#EXTINF:-1  group-title="TV", DE PELICULA +
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=182
+#EXTINF:-1  group-title="TV", DE PELICULA CLASICO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=183
+#EXTINF:-1  group-title="TV", EUROPA EUROPA
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=184
+#EXTINF:-1  group-title="TV", FX
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=186
+#EXTINF:-1  group-title="TV", FX 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=187
+#EXTINF:-1  group-title="TV", I SAT
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=188
+#EXTINF:-1  group-title="TV", I SAT 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=189
+#EXTINF:-1  group-title="TV", DESCONOCIDO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=190
+#EXTINF:-1  group-title="TV", MORBIDO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=191
+#EXTINF:-1  group-title="TV", SPACE 
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=192
+#EXTINF:-1  group-title="TV", STUDIO UNIVERSAL
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=193
+#EXTINF:-1  group-title="TV", STUDIO UNIVERSAL 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=194
+#EXTINF:-1  group-title="TV", SUNDANCE TV
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=195
+#EXTINF:-1  group-title="TV", DESCONOCIDO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=196
+#EXTINF:-1  group-title="TV", TCM
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=198
+#EXTINF:-1  group-title="TV", TNT
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=199
+#EXTINF:-1  group-title="TV", SONY CINE
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=200
+#EXTINF:-1  group-title="TV", STAR CHANNEL
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=206
+#EXTINF:-1  group-title="TV", GOLDEN +
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=207
+#EXTINF:-1  group-title="TV", GOLDEN
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=208
+#EXTINF:-1  group-title="TV", GOLDEN +
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=209
+#EXTINF:-1  group-title="TV", GOLDEN +
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=210
+#EXTINF:-1  group-title="TV", GOLDEN PREMIER
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=211
+#EXTINF:-1  group-title="TV", HBO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=212
+#EXTINF:-1  group-title="TV", HBO 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=213
+#EXTINF:-1  group-title="TV", HBO +
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=214
+#EXTINF:-1  group-title="TV", HBO FAMILY
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=215
+#EXTINF:-1  group-title="TV", DESCONOCIDO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=216
+#EXTINF:-1  group-title="TV", HBO POP
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=217
+#EXTINF:-1  group-title="TV", HBO SIGNATURE
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=218
+#EXTINF:-1  group-title="TV", DESCONOCIDO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=220
+#EXTINF:-1  group-title="TV", PARAMOUNT CHANNEL
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=221
+#EXTINF:-1  group-title="TV", PARAMOUNT NETWORK
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=222
+#EXTINF:-1  group-title="TV", ADRENALINA
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=231
+#EXTINF:-1  group-title="TV", AFIZZIONADOS
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=232
+#EXTINF:-1  group-title="TV", AYM SPORTS
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=233
+#EXTINF:-1  group-title="TV", BEIN N
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=234
+#EXTINF:-1  group-title="TV", CLARO SPORTS
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=235
+#EXTINF:-1  group-title="TV", WIN SPORTS
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=236
+#EXTINF:-1  group-title="TV", WIN SPORTS +
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=237
+#EXTINF:-1  group-title="TV", DESCONOCIDO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=238
+#EXTINF:-1  group-title="TV", DIRECTV SPORTS 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=239
+#EXTINF:-1  group-title="TV", ESPN
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=242
+#EXTINF:-1  group-title="TV", ESPN
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=243
+#EXTINF:-1  group-title="TV", ESPN 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=244
+#EXTINF:-1  group-title="TV", ESPN 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=245
+#EXTINF:-1  group-title="TV", ESPN 3
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=246
+#EXTINF:-1  group-title="TV", ESPN 3
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=247
+#EXTINF:-1  group-title="TV", ESPN DEPORTES
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=248
+#EXTINF:-1  group-title="TV", ESPN XTRA
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=249
+#EXTINF:-1  group-title="TV", ESPN XTRA
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=250
+#EXTINF:-1  group-title="TV", FOX SPORTS
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=251
+#EXTINF:-1  group-title="TV", FOX SPORTS
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=252
+#EXTINF:-1  group-title="TV", FOX SPORTS 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=253
+#EXTINF:-1  group-title="TV", FOX SPORTS 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=254
+#EXTINF:-1  group-title="TV", FOX SPORTS 3
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=255
+#EXTINF:-1  group-title="TV", FOX SPORTS 3
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=256
+#EXTINF:-1  group-title="TV", GOL TV
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=257
+#EXTINF:-1  group-title="TV", NBA
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=258
+#EXTINF:-1  group-title="TV", DESCONOCIDO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=259
+#EXTINF:-1  group-title="TV", SKY SPORTS
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=266
+#EXTINF:-1  group-title="TV", SPACE
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=269
+#EXTINF:-1  group-title="TV", TELEMUNDO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=270
+#EXTINF:-1  group-title="TV", TNT
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=273
+#EXTINF:-1  group-title="TV", ESPN 2
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=276
+#EXTINF:-1  group-title="TV", TVC DEPORTES
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=277
+#EXTINF:-1  group-title="TV", UNIVISION EI
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=282
+#EXTINF:-1  group-title="TV", FOX SPORTS PREMIUM
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=287
+#EXTINF:-1  group-title="TV", CINEMAX
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=288
+#EXTINF:-1  group-title="TV", BANDAMAX
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=290
+#EXTINF:-1  group-title="TV", NICK MUSIC
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=306
+#EXTINF:-1  group-title="TV", ANTENA 3
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=321
+#EXTINF:-1  group-title="TV", A3SERIES
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=322
+#EXTINF:-1  group-title="TV", TELECINCO
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=334
+#EXTINF:-1  group-title="TV", RCN
+https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=338
