@@ -1,0 +1,150 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="TV4", BABYTV
+http://204.199.120.34:16123/play/ch01
+#EXTINF:-1 group-title="TV4", DISCOVERY KIDS
+http://204.199.120.34:16123/play/ch02
+#EXTINF:-1 group-title="TV4", DISNEY
+http://204.199.120.34:16123/play/ch03
+#EXTINF:-1 group-title="TV4", ZOOMOO
+http://204.199.120.34:16123/play/ch04
+#EXTINF:-1 group-title="TV4", DISNEY JR
+http://204.199.120.34:16123/play/ch05
+#EXTINF:-1 group-title="TV4", INFANTIL
+http://204.199.120.34:16123/play/ch06
+#EXTINF:-1 group-title="TV4", STAR
+http://204.199.120.34:16123/play/ch07
+#EXTINF:-1 group-title="TV4", FX
+http://204.199.120.34:16123/play/ch08
+#EXTINF:-1 group-title="TV4", EUROCHANNEL
+http://204.199.120.34:16123/play/ch09
+#EXTINF:-1 group-title="TV4", CINECANAL
+http://204.199.120.34:16123/play/ch10
+#EXTINF:-1 group-title="TV4", Film&Arts
+http://204.199.120.34:16123/play/ch11
+#EXTINF:-1 group-title="TV4", CINELATINO
+http://204.199.120.34:16123/play/ch12
+#EXTINF:-1 group-title="TV4", AMC
+http://204.199.120.34:16123/play/ch13
+#EXTINF:-1 group-title="TV4", DHE
+http://204.199.120.34:16123/play/ch14
+#EXTINF:-1 group-title="TV4", TELEPASTO
+http://204.199.120.34:16123/play/ch15
+#EXTINF:-1 group-title="TV4", ESPN
+http://204.199.120.34:16123/play/ch16
+#EXTINF:-1 group-title="TV4", ESPN2
+http://204.199.120.34:16123/play/ch17
+#EXTINF:-1 group-title="TV4", ESPN3
+http://204.199.120.34:16123/play/ch18
+#EXTINF:-1 group-title="TV4", ESPN4
+http://204.199.120.34:16123/play/ch19
+#EXTINF:-1 group-title="TV4", FOX SPORTS 2
+http://204.199.120.34:16123/play/ch20
+#EXTINF:-1 group-title="TV4", FOX SPORTS 3
+http://204.199.120.34:16123/play/ch21
+#EXTINF:-1 group-title="TV4", DISCOVERY
+http://204.199.120.34:16123/play/ch22
+#EXTINF:-1 group-title="TV4", ID
+http://204.199.120.34:16123/play/ch23
+#EXTINF:-1 group-title="TV4", TURBO
+http://204.199.120.34:16123/play/ch24
+#EXTINF:-1 group-title="TV4", DISCOVERY H&H
+http://204.199.120.34:16123/play/ch25
+#EXTINF:-1 group-title="TV4", TLC
+http://204.199.120.34:16123/play/ch26
+#EXTINF:-1 group-title="TV4", EL GOURMET
+http://204.199.120.34:16123/play/ch27
+#EXTINF:-1 group-title="TV4", FOOD NETWORK
+http://204.199.120.34:16123/play/ch28
+#EXTINF:-1 group-title="TV4", ANIMAL PLANET
+http://204.199.120.34:16123/play/ch29
+#EXTINF:-1 group-title="TV4", NATGEO
+http://204.199.120.34:16123/play/ch30
+#EXTINF:-1 group-title="TV4", AGROTENDENCIA
+http://204.199.120.34:16123/play/ch31
+#EXTINF:-1 group-title="TV4", CGTN
+http://204.199.120.34:16123/play/ch32
+#EXTINF:-1 group-title="TV4", MAS CHIC
+http://204.199.120.34:16123/play/ch33
+#EXTINF:-1 group-title="TV4", GLITZ
+http://204.199.120.34:16123/play/ch34
+#EXTINF:-1 group-title="TV4", PASIONES
+http://204.199.120.34:16123/play/ch35
+#EXTINF:-1 group-title="TV4", VE PLUS
+http://204.199.120.34:16123/play/ch36
+#EXTINF:-1 group-title="TV4", TELEISLAS
+http://204.199.120.34:16123/play/ch37
+#EXTINF:-1 group-title="TV4", ENLACE
+http://204.199.120.34:16123/play/ch38
+#EXTINF:-1 group-title="TV4", CRISTOVISION
+http://204.199.120.34:16123/play/ch39
+#EXTINF:-1 group-title="TV4", EWTN
+http://204.199.120.34:16123/play/ch40
+#EXTINF:-1 group-title="TV4", LA KALLE
+http://204.199.120.34:16123/play/ch41
+#EXTINF:-1 group-title="TV4", EL TIEMPO
+http://204.199.120.34:16123/play/ch42
+#EXTINF:-1 group-title="TV4", FRANCE 24
+http://204.199.120.34:16123/play/ch43
+#EXTINF:-1 group-title="TV4", LAS ESTRELLAS
+http://204.199.120.34:16123/play/ch44
+#EXTINF:-1 group-title="TV4", TLNOVELAS
+http://204.199.120.34:16123/play/ch45
+#EXTINF:-1 group-title="TV4", GOLDEN
+http://204.199.120.34:16123/play/ch46
+#EXTINF:-1 group-title="TV4", GOLDEN EDGE
+http://204.199.120.34:16123/play/ch47
+#EXTINF:-1 group-title="TV4", SUN CHANNEL
+http://204.199.120.34:16123/play/ch48
+#EXTINF:-1 group-title="TV4", CINE PREMIUM
+http://204.199.120.34:16123/play/ch49
+#EXTINF:-1 group-title="TV4", LOVE NATURE
+http://204.199.120.34:16123/play/ch50
+#EXTINF:-1 group-title="TV4", CINE HISPANO
+http://204.199.120.34:16123/play/ch51
+#EXTINF:-1 group-title="TV4", CINE FAMILIAR
+http://204.199.120.34:16123/play/ch52
+#EXTINF:-1 group-title="TV4", MIMUSICA REGAETON
+http://204.199.120.34:16123/play/ch53
+#EXTINF:-1 group-title="TV4", MIMUSICA ROMANTICA
+http://204.199.120.34:16123/play/ch54
+#EXTINF:-1 group-title="TV4", MIMUSICA SALSA
+http://204.199.120.34:16123/play/ch55
+#EXTINF:-1 group-title="TV4", MIMUSICA POPULAR
+http://204.199.120.34:16123/play/ch56
+#EXTINF:-1 group-title="TV4", DEPELICULA
+http://204.199.120.34:16123/play/ch57
+#EXTINF:-1 group-title="TV4", CARACOL
+http://204.199.120.34:16123/play/ch58
+#EXTINF:-1 group-title="TV4", RCN
+http://204.199.120.34:16123/play/ch59
+#EXTINF:-1 group-title="TV4", TELECARIBE
+http://204.199.120.34:16123/play/ch60
+#EXTINF:-1 group-title="TV4", SENAL COLOMBIA
+http://204.199.120.34:16123/play/ch61
+#EXTINF:-1 group-title="TV4", INSTITUCIONAL
+http://204.199.120.34:16123/play/ch62
+#EXTINF:-1 group-title="TV4", CANAL 1
+http://204.199.120.34:16123/play/ch63
+#EXTINF:-1 group-title="TV4", TRECE
+http://204.199.120.34:16123/play/ch64
+#EXTINF:-1 group-title="TV4", TELEANTIOQUIA
+http://204.199.120.34:16123/play/ch65
+#EXTINF:-1 group-title="TV4", TELEPACIFICO
+http://204.199.120.34:16123/play/ch66
+#EXTINF:-1 group-title="TV4", TELECAFE
+http://204.199.120.34:16123/play/ch67
+#EXTINF:-1 group-title="TV4", TRO
+http://204.199.120.34:16123/play/ch68
+#EXTINF:-1 group-title="TV4", CONGRESO
+http://204.199.120.34:16123/play/ch69
+#EXTINF:-1 group-title="TV4", CAPITAL
+http://204.199.120.34:16123/play/ch70
+#EXTINF:-1 group-title="TV4", zoom
+http://204.199.120.34:16123/play/ch71
+#EXTINF:-1 group-title="TV4", TELEMEDELLIN
+http://204.199.120.34:16123/play/ch73
+#EXTINF:-1 group-title="TV4", EXTRA
+http://204.199.120.34:16123/play/CH90
+#EXTINF:-1 group-title="TV4", ISAT
+http://204.199.120.34:16123/play/a064
