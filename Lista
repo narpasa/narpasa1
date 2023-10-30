@@ -1277,16 +1277,12 @@ http://177.53.153.21:8001/play/a0at/index.m3u8
 http://45.166.92.22:58001/play/a01q/index.m3u8
 #EXTINF:-1 group-title="TV",PBS KIDS
 https://notabasica.com/php/SR_REGIO_601032_/nuevotv.php?key=SrRegio&c=133
-#EXTINF:-1 group-title="TV",Penthouse
-http://45.166.92.22:58001/play/a04c/index.m3u8
 #EXTINF:-1 group-title="TV",Pet Collertor (Es)
 https://linear-174.frequency.stream/dist/vix/174/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV",PINKFONG
 https://linear-355.frequency.stream/dist/vix/355/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.themoviedb.org/t/p/w500/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg",Pinocchio 2022 | REGIOFLIX
 http://notabasica.com/909032/Guillermo.del.Toros.Pinocchio.2022.lati.mp4
-#EXTINF:-1 group-title="TV",Playboy HD
-http://177.53.153.21:8001/play/a0bg/index.m3u8
 #EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png",Pluto TV  Competencias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6d935d000120009bc1132/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png",Pluto TV  Nuestro Cine
@@ -1439,8 +1435,6 @@ http://177.53.153.21:8001/play/a05k/index.m3u8
 http://45.5.119.228:8000/play/a01o/index.m3u8
 #EXTINF:-1 group-title="TV",SERIE COMEDIA
 https://linear-310.frequency.stream/dist/vix/310/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV",Sextreme
-http://177.53.153.21:8001/play/a01p/index.m3u8
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/04/poster-shang-chi-leyenda-diez-anillos-2303799.jpg?itok=bA7yKza5",Shang Chi La Leyenda de los 10 anillos | REGIOFLIX
 http://notabasica.com/909032/Shang.Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
 #EXTINF:-1 group-title="TV",Siete
