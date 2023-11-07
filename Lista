@@ -611,8 +611,6 @@ http://177.53.153.21:8001/play/a0bh/index.m3u8
 http://177.53.153.21:8001/play/a00v/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="../Channel/Logo/Paramount Comedy.png",Paramount HD
 http://177.53.153.21:8001/play/a03e/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="../Channel/Logo/Playboy TV.png",Playboy HD
-http://177.53.153.21:8001/play/a0bg/index.m3u8
 #EXTINF:-1 group-title="TV",RCN HD
 http://177.53.153.21:8001/play/a031/index.m3u8
 #EXTINF:-1 group-title="TV",RED GLOBAL
@@ -625,8 +623,6 @@ http://177.53.153.21:8001/play/a00l/index.m3u8
 http://177.53.153.21:8001/play/a022/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="../Channel/Logo/Global Star tv.png",STAR TVE HD
 http://177.53.153.21:8001/play/a03g/index.m3u8
-#EXTINF:-1 group-title="TV",Sextreme
-http://177.53.153.21:8001/play/a01p/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="../Channel/Logo/SONY ТВ.png",Sony HD
 http://177.53.153.21:8001/play/a01t/index.m3u8
 #EXTINF:-1 group-title="TV",Space HD
@@ -927,8 +923,6 @@ http://45.166.92.22:58001/play/a032/index.m3u8
 http://45.166.92.22:58001/play/a01l/index.m3u8
 #EXTINF:-1 group-title="TV",Pasiones HD
 http://45.166.92.22:58001/play/a01q/index.m3u8
-#EXTINF:-1 group-title="TV",Penthouse
-http://45.166.92.22:58001/play/a04c/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="../Channel/Logo/Eurosport 1 HD.png",RT ESPANOL HD
 http://45.166.92.22:58001/play/a05j/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="../Channel/Logo/SONY ТВ.png",SONY HD
